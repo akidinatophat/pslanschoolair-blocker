@@ -8,4 +8,4 @@ instructions:
 2. to run it, DO NOT DOUBLE CLICK IT LIKE ANY OTHER FILE, right click on it and click "Run with Powershell".
 3. you're all set!
 
-please note that if it says error most of the time, and sometimes it says "SUCCESS: The process "LSAirClient.exe" with PID" blah blah blah, that means its working.
+please note that if it says error most of the time, and sometimes it says "SUCCESS: The process "LSAirClient.exe with PID" blah blah blah, that means its working.
