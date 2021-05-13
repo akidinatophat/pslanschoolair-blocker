@@ -1,5 +1,7 @@
 # pslanschoolair-blocker
-a stupid lanschool air blocker i quickly made in powershell
+a stupid lanschool air blocker i quickly made in powershell(and additionally batch)
+
+if you are looking for the batch file edition, switch to the batchedition branch
 
 this was made for people in my school only, but this *should* work for anyone else with lanschool air on their pc, just make sure you have access to powershell
 
