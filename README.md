@@ -1,3 +1,5 @@
+im in 9th grade now, watch this thing get distributed everywhere
+
 # pslanschoolair-blocker
 a stupid lanschool air blocker i quickly made in powershell(and additionally batch)
 
